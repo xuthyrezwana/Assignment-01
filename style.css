@@ -3,13 +3,13 @@ body{
 }
 h1{
     font-size: 50px;
-    color: rgb(61, 3, 14);
+    color: rgb(221, 50, 82);
     font-weight: 700px;
     
     
 }
 .name-color{
-    color: rgb(88, 21, 212);
+    color: rgb(77, 48, 133);
 }
 section{
     display: flex;
@@ -20,15 +20,23 @@ section{
 
     
 }
-.ist-section img{ width: 100%;
+.ist-section img{ 
+    width: 100%;
+    border-radius: 20%;
 
 }
 
 .order-button{
     text-decoration: none;
     background-image: linear-gradient(orange,red);
-    padding: 15px 40px;
-    border-radius: 25px;
-    margin-top: 20px;    
-    
+    border-radius: 25%;
+    padding: 2%;
+}
+.2nd-section{
+    width: 50%;
+    padding: 5%;
+}
+.2nd-section img{
+    width: 100%;
+
 }
