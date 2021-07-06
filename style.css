@@ -38,6 +38,7 @@ section{
 .both-section{
     width: 50%;
     padding: 5%;
+    margin-right: 50px;
 }
 .both-section img{
     width: 120%;
@@ -50,13 +51,20 @@ section{
     padding: 3%;}
     
     .about-section{
-    display: flex;
-    margin-bottom: 100px;
-    
-    padding-right: 50px;
+        display: flex;
+        margin-bottom: 100px;
+        
     background-image: url(images/shapes/7.png);
+   }
+   .our-services{
+       text-align: center;
+   }
+   .Recipies-area{
+       
+   }
    
+   
+       
 
-    }
     
     
