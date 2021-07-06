@@ -13,14 +13,16 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
+    margin-right: 100px;
 }
-.ist-section{
+.both-section{
     width: 50%;
     padding: 5%;
 
     
 }
-.ist-section img{ 
+.both-section img{ 
     width: 100%;
     border-radius: 20%;
 
@@ -31,12 +33,30 @@ section{
     background-image: linear-gradient(orange,red);
     border-radius: 25%;
     padding: 2%;
+    
 }
-.2nd-section{
+.both-section{
     width: 50%;
     padding: 5%;
 }
-.2nd-section img{
-    width: 100%;
+.both-section img{
+    width: 120%;
 
 }
+.contact-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(88, 46, 136),rgb(23, 124, 172));
+    border-radius: 25%;
+    padding: 3%;}
+    
+    .about-section{
+    display: flex;
+    margin-bottom: 100px;
+    
+    padding-right: 50px;
+    background-image: url(images/shapes/7.png);
+   
+
+    }
+    
+    
